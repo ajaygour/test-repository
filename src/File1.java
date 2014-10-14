@@ -12,3 +12,10 @@
 //12th commit
 //13th commit
 //14th commit
+
+branch1 - 1st commit
+branch1 - 2nd commit
+branch1 - 3rd commit
+branch1 - 4th commit
+branch1 - 5th commit
+branch1 - 6th commit
