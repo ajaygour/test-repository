@@ -21,3 +21,4 @@ branch1 - 5th commit
 branch1 - 6th commit
 
 branch2 - 1st commit
+branch2 - 2nd commit
